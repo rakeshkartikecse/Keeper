@@ -4,7 +4,7 @@ import React from "react";
 function Headers(){
     return(
         <header>
-            Keeper
+           <h1>Keeper</h1>
         </header>
     );
 }
